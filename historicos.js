@@ -1,6 +1,6 @@
 // URL base de la API desplegada en Render.
 // Todas las consultas del frontend hacia el backend se construirán usando esta base.
-const API_BASE = "https://api-monitoreo-nube.onrender.com";
+const API_BASE = "https://monitoreo-climatico-itsx.onrender.com";
 
 // Zona de monitoreo con la que trabajará esta página.
 // En este caso, se usa la zona Z1 como valor fijo por defecto.
@@ -281,4 +281,5 @@ btnLimpiar.addEventListener("click", () => {
 
   // Después carga la tabla general inicial.
   await cargarTabla();
+
 })();
