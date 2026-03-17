@@ -27,7 +27,7 @@ L.circle([10.0777, -84.4857], {
 // ✅ tu API en Render (UNA SOLA VEZ)
 // Guarda en una constante la URL base del backend desplegado en Render
 // Esto evita repetir la dirección completa en cada llamada fetch
-const API_BASE = "https://api-monitoreo-nube.onrender.com";
+const API_BASE = "https://monitoreo-climatico-itsx-wqxx.onrender.com";
 
 
 
