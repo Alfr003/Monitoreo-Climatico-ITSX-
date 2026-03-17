@@ -2,7 +2,7 @@
 
 // URL base de tu API desplegada en Render.
 // Todas las consultas fetch se construirán a partir de esta dirección.
-const API_BASE = "https://monitoreo-climatico-itsx.onrender.com";
+const API_BASE = "https://monitoreo-climatico-itsx-wqxx.onrender.com";
 
 // Zona de monitoreo que se desea visualizar.
 // Aquí se está trabajando específicamente con la zona Z1.
